@@ -11,8 +11,8 @@
     ],
     "apps": [
         {
-            "name": "GD hack",
-            "bundleIdentifier": "com.gd.hack",
+            "name": "test",
+            "bundleIdentifier": "com.test1",
             "developerName": "IDK",
             "subtitle": "Test",
             "localizedDescription": "Test",
